@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (UnitTest4_1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  UnitTest4_2.cpp
+     Создается библиотека D:\Student\oop4.2\Debug\UnitTest4_2.lib и объект D:\Student\oop4.2\Debug\UnitTest4_2.exp
+  UnitTest4_1.vcxproj -> D:\Student\oop4.2\Debug\UnitTest4_2.dll
